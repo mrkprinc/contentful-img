@@ -1,0 +1,1 @@
+@mrkprinc/contentful-img
