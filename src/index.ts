@@ -1,3 +1,3 @@
-import ContentfulImg from './ContentfulImg'
+import ContentfulImg from './ContentfulImg';
 
-export { ContentfulImg }
+export { ContentfulImg };
